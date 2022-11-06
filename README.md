@@ -1,2 +1,1 @@
-# MinruzeGameZ
-A multi app/game downloader in one place.
+### A multi app/game downloader in one place.
